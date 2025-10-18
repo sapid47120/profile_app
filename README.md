@@ -1,16 +1,42 @@
-# profile_app
+🧑‍💻 Profile App (Flutter)
 
-A new Flutter project.
+This Flutter project displays a simple personal profile screen with a clean and responsive UI.
+It was created as part of Quiz #2 for Riphah International University, submitted to Sir Waqar Arshad.
 
-## Getting Started
+📱 Features
 
-This project is a starting point for a Flutter application.
+✅ Displays user name, email, and profile image
+✅ Includes “Follow” and “Message” buttons
+✅ Responsive layout (works in both portrait and landscape)
+✅ Simple input validation (username cannot be empty)
+✅ Shows Snackbar message when username is validated
 
-A few resources to get you started if this is your first Flutter project:
+🧾 Project Details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Student Name: Arslan Tahir
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SAP ID: 47120
+
+University: Riphah International University
+
+Course: Mobile Application Development (MAD)
+
+Instructor: Sir Waqar Arshad
+
+Project Type: Quiz #2
+
+🔗 GitHub Repository
+
+👉 Click here to view project
+
+🖼️ App Output
+
+The app displays:
+
+A profile picture (arslan.jpg)
+
+Name and email (47120@students.riphah.edu.pk)
+
+Buttons for interaction
+
+Input field for username with validation
